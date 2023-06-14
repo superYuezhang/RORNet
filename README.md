@@ -1,2 +1,2 @@
 # RORNet
-We will update the repository after the paper is received.
+We will update the repository after the paper is published.
