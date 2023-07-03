@@ -32,9 +32,9 @@ by Yue Wu , Yue Zhang , Wenping Ma , Maoguo Gong , Xiaolong Fan , Mingyang Zhang
 
 ​		(1) [ModelNet40](https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip)
 
-​		(2) [KITTI_odo](https://3dmatch.cs.princeton.edu/)
+​		(2) [KITTI_odo](https://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 
-​		(3) [Stanford Bunny](https://shapenet.cs.stanford.edu/media/indoor3d_sem_seg_hdf5_data.zip)
+​		(3) [Stanford Bunny](http://graphics.stanford.edu/data/3Dscanrep/)
 
 ## Citation
 
