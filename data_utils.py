@@ -17,8 +17,8 @@ def load_data(partition, file_type='modelnet40'):
     if file_type == 'Kitti_odo':
         file_name = 'KITTI_odometry/sequences/'
         DATA_FILES = {
-            'train': ['01', '02', '03'],  # 0,1,2,3,4,5
-            'test': ['09'],  # 8,9,10
+            'train': ['00', '01', '02', '03', '04', '05'],  # 0,1,2,3,4,5
+            'test': ['08', '09', '10'],  # 8,9,10
         }
         all_data = []
         all_label = []
