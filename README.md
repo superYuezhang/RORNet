@@ -8,7 +8,8 @@ by Yue Wu , Yue Zhang , Wenping Ma , Maoguo Gong , Xiaolong Fan , Mingyang Zhang
 
 2. Change the "DATA_DIR" parameter in the "data_utils.py" file to its own data set folder path.
 
-3. Run the "main.py" in OverlapDetect file and save the pkl file; load pkl file trained by OverlapDetect file and run the OverlapReg file. Note: you need to make the "OverlapNet" model consistent for the OverlapDetect file and the OverlapReg file.
+3. Run the "main.py" in OverlapDetect file and save the pkl file; load pkl file trained by OverlapDetect file and run the OverlapReg file. 
+**Note**: you need to make the "OverlapNet" model consistent for the OverlapDetect file and the OverlapReg file.
 
 4. For convenience, We provide end-to-end training "running OverlapReg/main.py directly", but there may be a loss of accuracy.
 
