@@ -44,12 +44,15 @@ by Yue Wu , Yue Zhang , Wenping Ma , Maoguo Gong , Xiaolong Fan , Mingyang Zhang
 If you find the code or trained models useful, please consider citing:
 
 ```
-@article{2023rornet,
-  title={RORNet: Partial-to-Partial Registration Network With Reliable Overlapping Representations},
-  author={Wu, Yue and Zhang, Yue and Ma, Wenping and Gong, Maoguo and Fan, Xiaolong and Zhang, Mingyang and Qin, AK and Miao, Qiguang},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2023},
-  publisher={IEEE}
+@article{{rornet,
+	author={Wu, Yue and Zhang, Yue and Ma, Wenping and Gong, Maoguo and Fan, Xiaolong and Zhang, Mingyang and Qin, A. K. and Miao, Qiguang},
+	journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+	title={RORNet: Partial-to-Partial Registration Network With Reliable Overlapping Representations}, 
+	year={2024},
+	volume={35},
+	number={11},
+	pages={15453-15466},
+	doi={10.1109/TNNLS.2023.3286943}
 }
 ```
 
